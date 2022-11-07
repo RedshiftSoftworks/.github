@@ -13,6 +13,6 @@
     <br>
     We are a passionate team of programmers, security researchers and reverse engineers keen on creating maintainable, and open source software that steers the world of cybersecurity in the right direction.
 
-<div align=center><a href="https://xesoft.works">Website</a> | <a href="https://xesoft.works/twitter">Twitter</a> | <a href="https://xesoft.works/projects">Projects</a> | <a href="mailto:contact@xesoft.works">Email</a> </div>
+<div align=center><a href="https://xesoftworks.github.io/">Website</a> | <a href="https://xesoft.works/twitter">Twitter</a> | <a href="https://xesoft.works/projects">Projects</a> | <a href="mailto:contact@xesoft.works">Email</a> </div>
 
 </div>
