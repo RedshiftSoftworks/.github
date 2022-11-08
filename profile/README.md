@@ -1,10 +1,10 @@
 <!-- Lulzbin, GNAA, Trollface Security and Xe Softworks are licensed. -->
 <div align="center">
 
- <a href="https://xesoft.works" target="_blank">
+ <a href="https://xesoft.works#gh-dark-mode-only" target="_blank">
         <img height="190" src="https://drive.lulzb.in/file.php?q=6368aeabcf881.png#gh-dark-mode-only" />
     </a>
-    <a href="https://xesoft.works" target="_blank">
+    <a href="https://xesoft.works#gh-light-mode-only" target="_blank">
         <img height="190" src="https://drive.lulzb.in/file.php?q=6368af3e5d7b4.png#gh-light-mode-only" />
     </a>
     <!-- SEP -->
