@@ -12,7 +12,7 @@
     <h1> Xe Softworks </h1>
     Security Research Organization & Software Development Team
     <br>
-    We are a passionate team of programmers, security researchers and reverse engineers keen on creating maintainable, and open source software that steers the world of cybersecurity in the right direction.
+    We are a passionate team of programmers, security researchers and reverse engineers specialied in information and software security, along with computational cryptology. We are keen on creating maintainable and open source software that steers the world of cybersecurity in the right direction.
 
 <div align=center><a href="https://xesoft.works">Website</a> | <a href="https://xesoft.works/twitter">Twitter</a> | <a href="https://xesoft.works/projects">Projects</a> | <a href="mailto:contact@xesoft.works">Email</a> </div>
 
