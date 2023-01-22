@@ -1,4 +1,4 @@
-<!-- Lulzbin, GNAA, Trollface Security and Xe Softworks are licensed. -->
+<!-- Lulzbin, GNAA, Trollface Security and Redshift Softworks are licensed. -->
 <div align="center">
 
  <a href="https://0day.cfd#gh-dark-mode-only" target="_blank">
