@@ -2,7 +2,7 @@
 <div align="center">
 
  <a href="https://0day.cfd#gh-dark-mode-only" target="_blank">
-        <img src="https://drive.lulzb.in/file.php?q=63cf78e483859.png" />
+        <img src="https://drive.lulzb.in/file.php?q=63cf7b57b701a.png" />
     </a>
     <a href="https://0day.cfd#gh-light-mode-only" target="_blank">
         <img src="https://drive.lulzb.in/file.php?q=63cf7b0732580.png#gh-light-mode-only" />
