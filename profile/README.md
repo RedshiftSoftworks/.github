@@ -2,10 +2,10 @@
 <div align="center">
 
  <a href="https://0day.cfd#gh-dark-mode-only" target="_blank">
-        <img src="https://drive.lulzb.in/file.php?q=63cf7bec084d6.png" height=200 width=500 />
+        <img src="https://files.doxbin.gg/sD8FG6b4.png" />
     </a>
     <a href="https://0day.cfd#gh-light-mode-only" target="_blank">
-        <img src="https://drive.lulzb.in/file.php?q=63cf7c1a07c7f.png#gh-light-mode-only" height=200 width=500 />
+        <img src=https://drive.lulzb.in/file.php?q=63cfb6e5aac35.png#gh-light-mode-only" height=200 width=500 />
     </a>
     <h1> Redshift Softworks </h1>
     Security Research Organization & Software Development Team
