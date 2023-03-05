@@ -2,7 +2,7 @@
 <div align="center">
 
  <a href="https://0day.cfd#gh-dark-mode-only" target="_blank">
-        <img src="../image2vector.svg" />
+        <img src="https://files.doxbin.gg/0z6ksLRB.svg" />
     </a>
     <a href="https://0day.cfd#gh-light-mode-only" target="_blank">
         <img src=https://files.doxbin.gg/gwFBYu3D.png#gh-light-mode-only" height=200 width=500 />
